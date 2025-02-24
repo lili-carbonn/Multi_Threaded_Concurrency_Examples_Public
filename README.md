@@ -95,7 +95,7 @@ Both programs require a `seed.txt` file in the same directory for random number 
 - `output2.txt` - Sample output from Problem 2
 - `README.md` - This file
 
-The project will be available at `https://github.com/lili-carbonn/Multi_Threaded_Concurrency_Examples_Private/`
+The project will be available at `https://github.com/lili-carbonn/OS_Simulation_Project/`
 
 If you would like to view the full code, you should request access. This is due to concerns of plagiarism.
 
